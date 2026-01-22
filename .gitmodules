@@ -1,0 +1,6 @@
+[submodule "rsl_rl"]
+	path = rsl_rl
+	url = git@github.com:leggedrobotics/rsl_rl.git
+[submodule "hzzz_rl"]
+	path = hzzz_rl
+	url = git@github.com:HuangZihaooo/hzzz_rl.git
